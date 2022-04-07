@@ -7,11 +7,11 @@ int variable5 = 1;
 
 string cadena = "hola mundo";
 int x = 9;
-int y = 0;
+int y = 1;
 int h = 0;
 int d = 0;
 int functest = 1;
-int b = 0;
+int b = 0; 
 
 
 int main(int a, char d)

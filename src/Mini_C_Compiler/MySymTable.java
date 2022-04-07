@@ -454,7 +454,7 @@ public class MySymTable {
         for (int i = 0; i < symtable.size(); i++) {
             
             symtable.get(i).printRow();
-            System.out.println("\n");
+            //System.out.println("\n");
             
         }
     }
